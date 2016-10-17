@@ -7,11 +7,8 @@ This project aims to help people learn about Image Recognition.
 You can either solve an existing issue or create one and solve it. You can also add new features, and improve current ones.
 
 - Fork the repository and clone it to your computer
-
 - Commit your changes
-
 - Test it
-
 - Make your Pull Request explaining what you did.
  
 #Coding Guidelines
