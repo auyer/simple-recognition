@@ -1,4 +1,4 @@
-# simple-recognition
+# Simple-Recognition
 
 This project is a Simple image Recognition system using pokemon images.
 
