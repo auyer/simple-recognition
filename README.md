@@ -1,6 +1,8 @@
 # simple-recognition
 
-Simple Recognition using pokemon images
+This project is a Simple image Recognition system using pokemon images.
+
+It aims to help students to understand how image recognition works.
 
 #Tutorial
 
